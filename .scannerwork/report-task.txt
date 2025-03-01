@@ -1,0 +1,6 @@
+projectKey=Exemple_KI_BAKO
+serverUrl=http://localhost:9000
+serverVersion=25.2.0.102705
+dashboardUrl=http://localhost:9000/dashboard?id=Exemple_KI_BAKO
+ceTaskId=60910e42-926f-4bdf-b363-0b6df2798e3a
+ceTaskUrl=http://localhost:9000/api/ce/task?id=60910e42-926f-4bdf-b363-0b6df2798e3a
